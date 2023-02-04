@@ -1,7 +1,7 @@
 +++
-title = "John Doe"
-image = "/images/author/john-doe.jpg"
-description = "Front end developer"
-+++
+description = "Career Counselor "
+image = ""
+title = "Apoorv Saxena"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++++
+I am a highly qualified career counselor with years of experience helping individuals achieve their academic and career goals. I am proud to say that I have secured admission to some of the top universities in the UK, Japan and Taiwan and I am a recipient of the MOE scholarship. With my extensive knowledge of the admission process and my passion for guiding students towards success, I am the perfect choice for anyone looking to pursue their academic dreams. Let me help you turn your aspirations into a reality.
