@@ -3,7 +3,6 @@ author = "Apoorv Saxena"
 categories = ["Meta Data"]
 date = 2019-11-07T05:00:00Z
 description = "This is meta description"
-draft = true
 image = "/images/banner/illustration.svg"
 title = "What we Provide"
 type = "post"
