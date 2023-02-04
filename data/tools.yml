@@ -3,7 +3,7 @@ tools:
 - title: PaperWork
   tool:
   - name: Letter of Recommendation
-    image: ''
+    image: "/images/untitled-presentation.jpg"
     link: https://apoorvsaxena.notion.site/Letter-of-Recommendation-bf4f5add4cc649bab5250d6f5ed58550
   - name: Research Proposal
     image: ''
