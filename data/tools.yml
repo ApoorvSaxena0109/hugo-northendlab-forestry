@@ -5,9 +5,9 @@ tools:
   - name: Letter of Recommendation
     image: ''
     link: https://apoorvsaxena.notion.site/Letter-of-Recommendation-bf4f5add4cc649bab5250d6f5ed58550
-  - name: Atom
-    image: "/images/tools/Atom.png"
-    link: https://atom.io/
+  - name: Research Proposal
+    image: ''
+    link: https://apoorvsaxena.notion.site/Research-Proposal-0757ba415fab4e30a55d952370d7f603
   - name: Notepad ++
     image: "/images/tools/Notepad.png"
     link: https://notepad-plus-plus.org/
